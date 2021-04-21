@@ -1,0 +1,102 @@
+{
+    "categories": [{
+        "id": 1,
+        "cat_title": "Home",
+        "cat_img": "cat_home.jpg"
+    }, {
+        "id": 2,
+        "cat_title": "Fashion",
+        "cat_img": "cat_fashion.jpg"
+    }, {
+        "id": 3,
+        "cat_title": "Books",
+        "cat_img": "cat_book.jpeg"
+    }, {
+        "id": 4,
+        "cat_title": "Electronics",
+        "cat_img": "cat_electronics.jpeg"
+    }],
+    "products": [{
+            "id": 1,
+            "title": "Apple iPhone X",
+            "descr": "The device does not come with headphones or a SIM card. It does include a charger and charging cable that may be generic, in which case it will be UL or Mfi (“Made for iPhone”) Certified. ",
+            "img": "pro1_img.png",
+            "categoriesId": 4,
+            "price": "$438.00",
+            "bestseller": true
+        },
+        {
+            "id": 2,
+            "title": "Seagate Portable 2TB External Hard Drive",
+            "descr": "Easily store and access 2TB of content on the go with the Seagate Portable Drive, a USB external hard drive ",
+            "img": "pro2_img.jpg",
+            "categoriesId": 4,
+            "price": "$84.99",
+            "bestseller": false
+        },
+        {
+            "id": 3,
+            "title": "Fire TV Stick 4K streaming device",
+            "descr": "Watch favorites from Netflix, Disney+, Prime Video, YouTube, Apple TV, Crave, CTV, NHL, Citytv Video, FXNOW Canada, and others. Subscription fees may apply. ",
+            "img": "pro3_img.jpg",
+            "categoriesId": 4,
+            "price": "$70",
+            "bestseller": true
+        },
+        {
+            "id": 4,
+            "title": "Vileda EasyWring Microfibre Spin Mop & Bucket Floor Cleaning System",
+            "descr": "",
+            "img": "pro4_img.jpg",
+            "categoriesId": 1,
+            "price": "$40",
+            "bestseller": true
+        },
+        {
+            "id": 5,
+            "title": "COSORI Air Fryer",
+            "descr": "Healthier Fried Food - Adopted Air crisp technology which produces 85% less fat than traditional frying methods, but COSORI air fryer delivers the same deliciously crunchy taste of fried food with little to no oil. Enjoy your favorite fried foods with 100 original, delicious & easy recipes for every meal, join our community and create more with other consumers ",
+            "img": "pro5_img.jpg",
+            "categoriesId": 1,
+            "price": "$136",
+            "bestseller": true
+        },
+        {
+            "id": 6,
+            "title": "Hanes Mens EcoSmart Fleece Sweatshirt ",
+            "descr": "50% Cotton, 50% Polyester Pull On closure ",
+            "img": "pro6_img.jpg",
+            "categoriesId": 2,
+            "price": "$13",
+            "bestseller": true
+        },
+        {
+            "id": 7,
+            "title": "Laptop Bags for Women",
+            "descr": "Featured in flexible textured Italian PU leather with a cowhide pattern, it offers a water-repellent and scratch-resistant edge, embellished with antique gold-tone contrast hardware that conveys a classic and elegant fashion. Fashionable easy-to-match colors will bring instant modernity and freshness to any outfit.",
+            "img": "pro7_img.jpg",
+            "categoriesId": 2,
+            "price": "$43",
+            "bestseller": true
+        },
+        {
+            "id": 8,
+            "title": "Beyond Order: 12 More Rules for Life ",
+            "descr": "The highly anticipated sequel to the global bestseller 12 Rules for Life.",
+            "img": "pro8_img.jpg",
+            "categoriesId": 3,
+            "price": "$20",
+            "bestseller": true
+        },
+        {
+            "id": 9,
+            "title": "The Day the Cancer Quit",
+            "descr": "Against all odds, one man chooses life—this is his remarkable story. This groundbreaking work invites us on a heartfelt journey from tragedy to triumph, changing the way we typically think about our body, our mind, and what we are truly capable of accomplishing",
+            "img": "pro9_img.jpg",
+            "categoriesId": 3,
+            "price": "$23",
+            "bestseller": true
+        }
+    ]
+
+}
